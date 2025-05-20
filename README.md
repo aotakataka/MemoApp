@@ -14,7 +14,7 @@ It allows users to quickly create, edit, and manage their personal memos — per
 ## Tech Stack
 
 - **Frameworks:** React, React Native  
-- **Language:** JavaScript (ES6+), React Function Components  
+- **Language:** TypeScript, React Function Components  
 - **State & Logic:** React Hooks  
 - **Navigation:** React Navigation  
 - **Mobile Development:** Expo  
